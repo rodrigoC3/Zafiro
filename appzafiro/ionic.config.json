@@ -1,5 +1,7 @@
 {
   "name": "appzafiro",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
